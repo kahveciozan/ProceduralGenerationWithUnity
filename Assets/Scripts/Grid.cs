@@ -16,6 +16,8 @@ public class Grid : MonoBehaviour
     private int height = 1;
     private int prevHeight = 1;
 
+    private float constructionDelay = 1.0f;     // 1 
+
     private GameObject[,] grid = null;
 
     [SerializeField, Range(0.1f, 50.0f)]
