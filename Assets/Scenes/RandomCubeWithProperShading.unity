@@ -158,8 +158,8 @@ MonoBehaviour:
   width: 10
   height: 10
   depth: 10
-  shapeType: 1
-  randomizeSize: 0
+  shaderName: Universal Render Pipeline/Lit
+  shapeType: 0
   shouldGenerateRandomSizes: 1
   randomSeed: 54
   maxRandomSize: 18
@@ -276,8 +276,8 @@ MonoBehaviour:
   width: 5
   height: 5
   depth: 5
-  shapeType: 1
-  randomizeSize: 0
+  shaderName: Universal Render Pipeline/Lit
+  shapeType: 0
   shouldGenerateRandomSizes: 1
   randomSeed: 67
   maxRandomSize: 7
@@ -512,8 +512,8 @@ MonoBehaviour:
   width: 3
   height: 3
   depth: 3
-  shapeType: 1
-  randomizeSize: 0
+  shaderName: Universal Render Pipeline/Lit
+  shapeType: 0
   shouldGenerateRandomSizes: 1
   randomSeed: 34
   maxRandomSize: 3
