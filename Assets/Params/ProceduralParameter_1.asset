@@ -17,17 +17,17 @@ MonoBehaviour:
   shapeWidth: 1
   shapeHeight: 1
   shapeDepth: 1
-  maxRandomHeight: 10
+  maxRandomHeight: 9
   maxRandomWidth: 1
   maxRandomDepth: 1
   maxRandomHeightOffset: 1
   maxRandomWidthOffset: 1
   maxRandomDepthOffset: 1
-  randomSeed: 39
+  randomSeed: 42
   ShapeType: 0
   makeShapesStatic: 1
   shouldGenerateRigidBodies: 0
   marginBetweenShapes: {x: 1, y: 1, z: 1}
   defaultMaterials: []
   shaderName: Universal Render Pipeline/Lit
-  proceduralMaterialsToGenerate: 43
+  proceduralMaterialsToGenerate: 9

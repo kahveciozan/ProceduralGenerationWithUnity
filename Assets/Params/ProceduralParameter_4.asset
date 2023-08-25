@@ -12,12 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d9225747c20dc624aa8437fceb348cd9, type: 3}
   m_Name: ProceduralParameter_4
   m_EditorClassIdentifier: 
-  width: 1
-  height: 1
+  width: 6
+  height: 11
   shapeWidth: 2
   shapeHeight: 2
   shapeDepth: 2
-  maxRandomHeight: 1
+  maxRandomHeight: 8.2
   maxRandomWidth: 1
   maxRandomDepth: 1
   maxRandomHeightOffset: 1

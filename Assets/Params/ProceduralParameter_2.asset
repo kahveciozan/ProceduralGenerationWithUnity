@@ -12,22 +12,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d9225747c20dc624aa8437fceb348cd9, type: 3}
   m_Name: ProceduralParameter_2
   m_EditorClassIdentifier: 
-  width: 1
-  height: 1
+  width: 12
+  height: 14
   shapeWidth: 2
   shapeHeight: 2
   shapeDepth: 2
-  maxRandomHeight: 1
+  maxRandomHeight: 12.5
   maxRandomWidth: 1
   maxRandomDepth: 1
   maxRandomHeightOffset: 1
   maxRandomWidthOffset: 1
   maxRandomDepthOffset: 1
-  randomSeed: 1
+  randomSeed: 33
   ShapeType: 0
   makeShapesStatic: 1
   shouldGenerateRigidBodies: 0
   marginBetweenShapes: {x: 1, y: 1, z: 1}
   defaultMaterials: []
   shaderName: Universal Render Pipeline/Lit
-  proceduralMaterialsToGenerate: 3
+  proceduralMaterialsToGenerate: 22
